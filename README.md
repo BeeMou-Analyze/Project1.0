@@ -1,14 +1,14 @@
 # Project1.0: Data Inventory Analysis
 
 ## Table of Content
-- [Project Overview](#Project-Overview)
-## Data Souce
-## Tools Used
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
 
 ## Project Overview
 #### This is an analaysis of revenue of Skillharvest enterprise acrose all its bussliness lines all over the six regions and thirty-six states in the country for the year 2023. The essense of this exercise its to analyse the data, connect trends which will aid leadership in making inferences that will better position for growth and sustinability.
 
-## Data Souce
+## Data Source
 ---
 
 ## Tools Used
